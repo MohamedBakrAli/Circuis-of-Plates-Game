@@ -5,6 +5,7 @@ A 2 player game with keyboard . The game is about two clowns trying to get max s
 * **Amr Hendy** [AmrHendy](https://github.com/AmrHendy)
 * **Arsanous Eissa** [Arsanous](https://github.com/Arsanuos)
 * **Marwan Morsy** [Marwan-Morsy](https://github.com/Marwan-Morsy)
+* **Mohamed Bakr**[MohamedBakrAli](https://github.com/MohamedBakrAli)
 
 ## License
 
